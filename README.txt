@@ -1,0 +1,1 @@
+Simple python function - uses requests and Pillow libraries to load an image from a URL and save a simple thumbnail locally.
